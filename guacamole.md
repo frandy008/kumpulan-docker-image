@@ -12,3 +12,11 @@ Port yang di gunakan adalah port :
 8080
 ```
 Silahkan di forward sesuai keinginan.
+
+Untuk user default nya : 
+```
+guacadmin
+```
+```
+guacadmin
+```
